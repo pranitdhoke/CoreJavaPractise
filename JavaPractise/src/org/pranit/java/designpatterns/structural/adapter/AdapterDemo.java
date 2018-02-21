@@ -17,7 +17,7 @@ public class AdapterDemo {
 	public static void main(String[] args) {
 
 		testClassAdapter();
-		System.out.println("***************************************\n");
+		System.out.println("\n***************************************\n");
 		testObjectAdapter();
 
 	}
